@@ -1,2 +1,2 @@
 hi hari 
-this is git and github
+this is git and GitHub session
