@@ -1,4 +1,8 @@
 Day -1
 hi hari 
+<<<<<<< HEAD
 this is git and GitHub session 
 
+=======
+this is git and GitHub session
+>>>>>>> ac9c79a97a81eef0ee632944cf92f74e248e452b
